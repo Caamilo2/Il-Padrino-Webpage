@@ -1,0 +1,88 @@
+body {
+    font-family: "Poppins", sans-serif;
+    color: #393E46;
+    overflow-x: hidden;
+}
+
+#title {
+    font-size: 300%;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+#direction {
+    border-radius: 2px;
+    border-color: white;
+}
+
+#food-options {
+    list-style-type: none;
+    margin: 30px;
+    font-weight: bold;
+}
+
+.food-options {
+    margin-left: 20px;
+}
+
+
+#logo {
+    width:  20%;
+    height: 20%;
+}
+
+body {
+    background-color: #F7F7F7;
+}
+
+.food-images{
+    height: 200px;
+    width:  266px;
+}
+
+.row {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#send-button {
+    border-radius: 0px;
+    background-color: #F7F7F7;
+    color: #6D9886;
+    border: none;
+}
+
+#logo-ilpadrino {
+    height: 60px;
+    width: auto;
+}
+
+a {
+    color:#393E46;
+}
+
+#sendingMessage {
+    color: #6D9886;
+}
+
+#exact-location {
+    border: 100px;
+    border-color:#393E46;
+    font-size: 120%;
+}
+
+#menu {
+    color: #F2E7D5;
+    background-color: #393E46;
+}
+
+#map-location {
+    height: 350px;
+    width: auto;
+  }
+
+/* .menu-button {
+    background-color: #393E46;
+} */
